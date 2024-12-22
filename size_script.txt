@@ -1,0 +1,1 @@
+Get-ChildItem | Measure-Object -Property length -Minimum -Maximum -Sum -Average
